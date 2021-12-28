@@ -1,4 +1,3 @@
 #!/bin/bash
-
-# Stop all servers and start the server as a daemon
-sudo yarn start
+cd /home/ubuntu/note-app
+sudo yarn start 

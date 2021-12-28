@@ -1,6 +1,3 @@
 #!/bin/bash
-
-
-cd /home/ubuntu/Notebook-app
-
-sudo npm install
+cd /home/ubuntu/note-app
+sudo yarn install
