@@ -1,3 +1,3 @@
 #!/bin/bash
 cd /home/ubuntu/app
-sudo yarn start 
+forever start -c "npm start" ./ 
