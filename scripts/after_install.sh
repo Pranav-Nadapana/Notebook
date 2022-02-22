@@ -1,3 +1,3 @@
 #!/bin/bash
-cd /home/ubuntu/note-app
+cd /home/ubuntu/app
 sudo yarn install
